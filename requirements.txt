@@ -1,4 +1,7 @@
-pandas==2.2.0
-matplotlib==3.8.2
-seaborn == 0.13.2
-yfinance==0.2.36
+fastapi
+uvicorn
+pandas
+numpy
+httpx==0.28.1
+python-dotenv
+yfinance==0.2.63
